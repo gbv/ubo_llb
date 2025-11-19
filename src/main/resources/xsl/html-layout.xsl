@@ -25,7 +25,7 @@
   <xsl:param name="UBO.Frontend.bootstrap-select.version" />
   <xsl:param name="UBO.Frontend.font-awesome.version" />
   <xsl:param name="User-Agent"/>
-  
+
   <!-- ==================== INCLUDES ==================== -->
 
   <xsl:include href="coreFunctions.xsl" />
@@ -217,9 +217,7 @@
               <span>
                 <xsl:value-of select="i18n:translate('llb.llb')" />
               </span>
-              <svg>
-                <use href="{$WebApplicationBaseURL}images/sprite-llb.svg#icon-llb-logo"></use>
-              </svg>
+              <img src="{$WebApplicationBaseURL}images/lippische-landesbibliothek-logo.svg" />
             </a>
           </div>
           <div class="col-12 col-sm-6 col-md-auto">
@@ -269,9 +267,9 @@
 
   <xsl:template name="ubo-main-nav">
     <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="mir-main-nav bg-primary">
+    <div class="mir-main-nav bg-success">
       <div class="container">
-        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <nav class="navbar navbar-expand-lg navbar-light bg-success">
 
           <button class="navbar-toggler" type="button"
             data-toggle="collapse" data-target="#mir-main-nav-collapse-box"
@@ -513,9 +511,7 @@
 
             <div class="col" id="footerLogo">
               <a href="https://www.llb-detmold.de/" class="containsimage">
-                <svg>
-                  <use href="{$WebApplicationBaseURL}images/sprite-llb.svg#icon-llb-logo"></use>
-                </svg>
+                <img src="{$WebApplicationBaseURL}images/lippische-landesbibliothek-logo.svg" />
               </a>
             </div>
 

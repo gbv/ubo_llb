@@ -37,10 +37,8 @@
   }
 
   #llbLogo {
-    svg {
-      color: $mhhBrown;
-      height: 120px;
-      width: 300px;
+    img {
+      width: 240px;
     }
     span {
       display: none;
@@ -50,7 +48,7 @@
   #orgaunitTitle {
     padding-left:32px;
     h1 {
-      color: $mhhRed;
+      color: $llbText;
       font-size: 1.6rem;
       font-weight: 600;
       line-height: 2.2rem;
