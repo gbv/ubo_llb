@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE webpage>
+
+<webpage lastModified="$Date$" id="dozbib.info">
+  <title xml:lang="de">Fragen, Antworten, Quintessenzen (FAQ)</title>
+
+  <div class="row">
+    <div class="col-12 col-md-8">
+
+      <article class="card mb-3" xml:lang="de">
+        <div class="card-body">
+          <p>
+            Die Hochschulbibliografie dient der Erfassung, Präsentation und Dokumentation der Publikationsleistungen
+            aller Beschäftigten ...
+          </p>
+          <p>
+            Alle Eintragungen werden von der Hochschulbibliothek überprüft, ggf. korrigiert und final freigegeben.
+          </p>
+        </div>
+      </article>
+    </div>
+
+    <div class="col-12 col-md-4">
+      <article class="card mb-3" xml:lang="de">
+        <div class="card-body">
+          <h3>Links:</h3>
+          <ul>
+            <li>Meldung neuer Publikationen: ...</li>
+            <li>PuDalys: ...</li>
+            <li>Kurzanleitung zur ...</li>
+            <li>Kurzanleitung zum ...</li>
+          </ul>
+        </div>
+      </article>
+    </div>
+  </div>
+
+  <article class="card mb-3" xml:lang="de">
+    <div class="card-body">
+      <h2>FAQ</h2>
+
+      <div class="accordion" id="accordionExample">
+        <div class="card">
+          <div class="card-header" id="headingOne">
+            <h2 class="mb-0">
+              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                <i class="fas fa-plus-circle"></i>
+                <i class="fas fa-minus-circle"></i>
+                Wer gibt in der Abteilung die Daten ein?
+              </button>
+            </h2>
+          </div>
+          <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+            <div class="card-body">
+              <p>
+                ...
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="headingTwo">
+            <h2 class="mb-0">
+              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                <i class="fas fa-plus-circle"></i>
+                <i class="fas fa-minus-circle"></i>
+                Können falsche / unvollständige Angaben nach dem Absenden korrigiert werden?
+              </button>
+            </h2>
+          </div>
+          <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+            <div class="card-body">
+              <p>
+                ...
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="headingThree">
+            <h2 class="mb-0">
+              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                <i class="fas fa-plus-circle"></i>
+                <i class="fas fa-minus-circle"></i>
+                Wie werden Dubletten vermieden?
+              </button>
+            </h2>
+          </div>
+          <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+            <div class="card-body">
+              <p>
+                ...
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="headingFour">
+            <h2 class="mb-0">
+              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                <i class="fas fa-plus-circle"></i>
+                <i class="fas fa-minus-circle"></i>
+                Was ist zu tun, wenn ...
+              </button>
+            </h2>
+          </div>
+          <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+            <div class="card-body">
+              <p>
+                ...
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="headingFive">
+            <h2 class="mb-0">
+              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                <i class="fas fa-plus-circle"></i>
+                <i class="fas fa-minus-circle"></i>
+                Wer aktualisiert die bibliografischen Angaben?
+              </button>
+            </h2>
+          </div>
+          <div id="collapseFive" class="collapse faq-types" aria-labelledby="headingFive" data-parent="#accordionExample">
+            <div class="card-body">
+              <p>
+                ...
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="headingSix">
+            <h2 class="mb-0">
+              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                <i class="fas fa-plus-circle"></i>
+                <i class="fas fa-minus-circle"></i>
+                Wann erscheinen die eingegebenen Daten?
+              </button>
+            </h2>
+          </div>
+          <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
+            <div class="card-body">
+              <p>
+                ...
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="headingSeven">
+            <h2 class="mb-0">
+              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                <i class="fas fa-plus-circle"></i>
+                <i class="fas fa-minus-circle"></i>
+                Wo werden ...?
+              </button>
+            </h2>
+          </div>
+          <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionExample">
+            <div class="card-body">
+              <p>
+                ...
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="headingEight">
+            <h2 class="mb-0">
+              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                <i class="fas fa-plus-circle"></i>
+                <i class="fas fa-minus-circle"></i>
+                Muss ich auch ... melden?
+              </button>
+            </h2>
+          </div>
+          <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionExample">
+            <div class="card-body">
+              <p>
+                ...
+              </p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </article>
+
+
+</webpage>
